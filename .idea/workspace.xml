@@ -47,6 +47,8 @@
     "Python.2.executor": "Run",
     "Python.3.executor": "Run",
     "Python.4.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }

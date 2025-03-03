@@ -7,4 +7,4 @@ total += a + b + c
 for i in range(4, 11):
     num = float(input(f"enter the {i}th number : "))
     total += num
-print("the sum of numbers is:", total)
+print("the sum of the numbers is:", total)
